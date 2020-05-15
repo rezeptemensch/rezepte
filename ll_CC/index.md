@@ -1,10 +1,8 @@
 # Rezepte
 
+Es gibt:
 
-## Rezept 1
-
-Hier könnte ein Rezept sein
-
-
-## Rezept 2
+- [Pizza](pages/pizza.md)
+- [Brot](pages/brot.md)
+- [Sonstiges](pages/sonstiges.md)
 

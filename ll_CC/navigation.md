@@ -3,7 +3,7 @@
   -- Do NOT remove the leading `#` character.
   -->
 
-# Your wiki name
+# Rezepte!
 
 
 <!--
@@ -19,7 +19,7 @@
   -- (Read: http://dynalon.github.io/mdwiki/#!quickstart.md#Adding_a_navigation)
   -->
 
-[Pizz](pages/pizza.md)
+[Pizza](pages/pizza.md)
 [Brot](pages/brot.md)
 [Sonstiges](pages/sonstiges.md)
 <!-- [About](pages/about.md) -->
